@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("backendPruebaNexti")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31e92bd73bc8966d70428c2d589a923df3698bd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("backendPruebaNexti")]
 [assembly: System.Reflection.AssemblyTitleAttribute("backendPruebaNexti")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -85,3 +85,4 @@ c:\Users\USER\Desktop\PRACTICA\PRUEBANEXTI\backendPruebaNexti\obj\Debug\net8.0\r
 c:\Users\USER\Desktop\PRACTICA\PRUEBANEXTI\backendPruebaNexti\obj\Debug\net8.0\backendPruebaNexti.pdb
 C:\Users\USER\Desktop\PRACTICA\PRUEBANEXTI\backendPruebaNexti\obj\Debug\net8.0\backendPruebaNexti.genruntimeconfig.cache
 C:\Users\USER\Desktop\PRACTICA\PRUEBANEXTI\backendPruebaNexti\obj\Debug\net8.0\ref\backendPruebaNexti.dll
+c:\Users\USER\Desktop\PRACTICA\PRUEBANEXTI\backendPruebaNexti\obj\Debug\net8.0\backendPruebaNexti.sourcelink.json
