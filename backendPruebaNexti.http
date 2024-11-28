@@ -1,0 +1,6 @@
+@backendPruebaNexti_HostAddress = http://localhost:5030
+
+GET {{backendPruebaNexti_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
